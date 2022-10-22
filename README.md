@@ -1,4 +1,4 @@
-Barra de navegação e conteúdo responsivo, feito com HTML 5, CSS 3 e Javascript.
+Este projeto é para mostrar a barra de navegação e conteúdo responsivo, feito com HTML 5, CSS 3 e Javascript.
 
 Link: https://fjsgomes.github.io/menu-responsivo/
 
