@@ -1,10 +1,10 @@
-var ul = document.querySelector('nav ul');
-var menuBtn = document.querySelector('.menu-btn i');
+var ul = document.querySelector('nav ul')
+var menuBtn = document.querySelector('.menu-btn i')
 
-function menuShow() {  
+function menuShow() {
   if (ul.classList.contains('open')) {
-    ul.classList.remove('open');
+    ul.classList.remove('open')
   } else {
-    ul.classList.add('open');
+    ul.classList.add('open')
   }
 }
