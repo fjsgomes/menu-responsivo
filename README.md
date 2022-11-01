@@ -2,4 +2,4 @@ Este projeto é para mostrar a barra de navegação e conteúdo responsivo, feit
 
 Link: https://fjsgomes.github.io/menu-responsivo/
 
-![Logo](https://user-images.githubusercontent.com/84814641/196589188-9db70599-28dc-4db7-8657-9666a4b019a6.png)
+![Logo](https://user-images.githubusercontent.com/84814641/199133177-ff900540-a9b9-43ee-af58-a0c420caa831.png)
